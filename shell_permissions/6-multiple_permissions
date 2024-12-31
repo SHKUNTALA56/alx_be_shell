@@ -1,4 +1,8 @@
 #!/bin/bash
+<<<<<<< HEAD
 touch Hello
 chmod +x 6-multiple_permissions
 
+=======
+touch Hello chmod u+x,g+x,o+r hello
+>>>>>>> 32017474e7a78c28d2a4070656a7baed5542214d
